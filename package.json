@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": { 
     "depcheck": "1.3.0" 
   }
 }
