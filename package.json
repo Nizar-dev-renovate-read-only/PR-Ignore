@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": { 
-    "depcheck": "1.4.0" 
+    "depcheck": "1.4.3" 
   }
 }
 
